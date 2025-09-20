@@ -1,0 +1,6 @@
+baseURL = 'https://portfolio.framon.dev/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'hugo-profile'
+
+[params]
