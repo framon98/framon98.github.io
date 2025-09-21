@@ -1,0 +1,20 @@
+baseURL: https://portfolio.framon.dev/
+languageCode: en-us
+title: Moncho
+theme: hugo-profile
+
+params:
+  navbar:
+    align: mx-auto
+    brandLogo: '/icon-512.png'
+    brandName:  'Moncho'
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Contact
+      pageRef: /contact
+      weight: 20
+  
